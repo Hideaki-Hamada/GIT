@@ -86,3 +86,5 @@ In this example we are going to work with Github, but it works with others too.
 ### Check if everything is ok with the command "git status"
 
 
+## Ignoring files 
+
