@@ -28,4 +28,15 @@ The following is a Cheat Sheet about Git basics on Linux comand prompt
 		sudo apt-get install nano
 				*syntax:* nano [name.extension]
 
+## GIT in a nutshell
+
+"Git is the most commonly used version control system today and is quickly becoming the standard for version control. Git is a distributed version control system, meaning your local copy of code is a complete version control repository. These fully-functional local repositories make it is easy to work offline or remotely."
+(Kayla Ngan, Mcrosoft. 2018)
+
+### How to install Git?
+
+Maybe your UNIX distribution have already git installed. For check it type:
+	"git -version" if it show you error, then there's not git in your system.
+
+"sudo apt-get install git"
 
