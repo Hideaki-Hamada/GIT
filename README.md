@@ -40,3 +40,15 @@ Maybe your UNIX distribution have already git installed. For check it type:
 
 "sudo apt-get install git"
 
+### How to configure Git?
+
+Before to start creating projects from your command line, you must set up git in your system. Let's check how to do it:
+	"git config --global user.name [user name]" 
+	"git config --global user.email [e-mail]"
+
+Additionally you can configure your prefered editor as default:
+	"git config --global core.editor [editor]"
+
+### Check if everything is ok with the command "git status"
+
+
